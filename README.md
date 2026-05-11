@@ -119,7 +119,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ## Results
 
--The Disease Prediction System was successfully implemented using Machine Learning algorithms and healthcare symptom datasets.
+- The Disease Prediction System was successfully implemented using Machine Learning algorithms and healthcare symptom datasets.
 
 - The system analyzed patient symptoms and predicted the most probable diseases with high accuracy and reliability.
 
